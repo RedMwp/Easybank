@@ -1,5 +1,6 @@
 :root{
   font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 *{
   box-sizing:border-box;
@@ -10,14 +11,12 @@
   border: none;
   outline: none;
 }
- html{
-  overflow-x:hidden;
-}
+ 
  body{
   margin: 0 auto;
   background: hsl(0, 0%, 98%);
   color: hsl(233, 26%, 24%);
-  overflow:hidden;
+  
 }
 h1{
   font-size: 3rem;
